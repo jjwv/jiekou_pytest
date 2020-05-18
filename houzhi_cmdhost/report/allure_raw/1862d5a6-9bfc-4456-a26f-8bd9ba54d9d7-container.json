@@ -1,0 +1,1 @@
+{"uuid": "fdafad68-7e82-4511-885d-b301c4591e6e", "children": ["7836899e-b0d3-4182-ad36-0f38600e714a"], "befores": [{"name": "delete_teacher_sql", "status": "passed", "start": 1583726600296, "stop": 1583726600296}], "afters": [{"name": "delete_teacher_sql::0", "status": "passed", "start": 1583726601187, "stop": 1583726601187}], "start": 1583726600296, "stop": 1583726601187}
